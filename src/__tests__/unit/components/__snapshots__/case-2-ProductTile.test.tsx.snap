@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`The <ProductTile /> component ❌ renders a product tile with name, image and price 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-AxjAm iPShpD"
+    data-testid="ProductTile"
+  >
+    <div
+      class="sc-AxirZ fUTalh"
+    />
+    <div
+      class="sc-AxgMl dtvmCV"
+    >
+      <div
+        class="sc-AxhCb iMwhLL"
+      >
+        Product tile
+      </div>
+      <div
+        class="sc-AxhUy dqKFMC"
+      >
+        2.50
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
